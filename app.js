@@ -1,4 +1,4 @@
-<img src="./siemens-logo.png" class="logo" alt="SIEMENS Logo">
+
     
 const App=(()=>{const STORE='circular_spare_part_parts_v63',LOG='circular_spare_part_querylog_v63',AD='circular_spare_part_adimage_v63',PWD='circular_spare_part_admin_pwd_v63';const defaultPassword='admin123';
 
